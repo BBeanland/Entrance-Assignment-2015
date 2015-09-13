@@ -1,0 +1,4 @@
+GCC_DIR=%ExtCpp%/Make/bin
+all:
+	@echo dfkljsl
+	"$(GCC_DIR)/make" -o test quadsim.cpp
